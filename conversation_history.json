@@ -1,0 +1,28 @@
+{
+  "65911306371104@lid": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Kya kaam hai?"
+    },
+    {
+      "role": "user",
+      "content": "Kuch nahi"
+    },
+    {
+      "role": "assistant",
+      "content": "Message mil gaya! Sunny jaldi reply karenge."
+    },
+    {
+      "role": "user",
+      "content": "Aap kon"
+    },
+    {
+      "role": "assistant",
+      "content": "Main Zero hoon, Sunny ka auto-reply bot."
+    }
+  ]
+}

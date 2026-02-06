@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# WhatsApp session data
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+messages_log.txt
+daily_summary_*.txt
+
+# Runtime data
+conversation_history.json
+bot_stats.json
+categorized_messages.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
